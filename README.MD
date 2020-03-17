@@ -33,4 +33,4 @@ O intuito da **API** é fazer uma integração **PAYPAL** + **NODE.JS**
 * Informação do Plano de Pagamento.
 * Cancelamento do Plano de Pagamento pelo Cliente.
 
-`Os módulos ainda não acabou, continuaremos com o assunto de assinatura. Assim que for ficando pronto eu vou subindo para o GitHub`
+`Esse projeto não acabou, continuaremos com o assunto de assinatura. Assim que for ficando pronto eu vou subindo para o GitHub`
